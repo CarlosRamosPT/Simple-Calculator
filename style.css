@@ -8,6 +8,8 @@ body {
 }
 
 #calculator{
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
